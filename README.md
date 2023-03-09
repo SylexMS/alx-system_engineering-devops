@@ -1,1 +1,1 @@
-This os Shell basics 0x00
+This is Shell basics 0x00
