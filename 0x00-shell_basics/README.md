@@ -1,5 +1,6 @@
 # 0x00-shell_basics
 
+## Hi 👋, I'm Sylex
 ## in this readme i wiil explain each script is doing
 
 in ```0-current_working_directory```, the command ```pwd``` means that print working current_working_directory.
