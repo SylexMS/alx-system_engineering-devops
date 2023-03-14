@@ -28,7 +28,7 @@ in ```10-mirror_permissions```, the command ```chmod --reference=olleh hello``` 
 
 in ```11-directories_permissions```, the command ```chmod -R +X .``` means to adds execute permission to all subdirectories of the current directory for the owner, the group owner and all other users.
 
-in ```12-More_directories```, the command ```mkdir -m 751 my_dir``` means to creates a directory called ```my_dir``` with permissions 751 in the working directory.
+in ```12-More_directories```, the command ```mkdir -m 751 my_dir``` means to creates a directory called  ```my_dir``` with permissions 751 in the working directory.
 
 in ```13-change_group```, the command ```chgrp school hello``` means to change the group owner to ```school``` for a the file```hello```.
 
